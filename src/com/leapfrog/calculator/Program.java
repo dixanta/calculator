@@ -17,6 +17,7 @@ public class Program {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Modified");
         Scanner input = new Scanner(System.in);
         while (true) {
             System.out.println("Enter first Number:");
